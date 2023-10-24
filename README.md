@@ -1,8 +1,5 @@
 # Youtube Adblock Popup Remover
 
-## Description
-* Removes that annoying adblock popup on youtube.
-
 ## Installation
 * Install tampermonkey extension for your browser
 * Chrome link: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
