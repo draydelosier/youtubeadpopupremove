@@ -6,7 +6,7 @@
 * Click on tampermonkey extension in your browsers extension bar and select >> Create a new  script
 * Copy and paste the code snippet below and save it (ctrl+s) (also provided in the .js file included if you download the zip)
 * open youtube, it should be working
-* if it's not, hit ctrl+shift+r on the youtube tab and then click the tampermonkey icon once more, and verify that the script "Youtube adblock block block" script slider toggle is set to green (toggled on). It should now be working. 
+* if it's not, hit ctrl+shift+r on the youtube tab and then click the tampermonkey icon once more, and verify that the script "Youtube adblock block block" script slider toggle is set to green (toggled on). Hit ctrl+shift+r once more for a hard page refresh. It should now be working. 
 
 * Note: If you want to verify that its working you can hit ctrl + shift + i on chrome to open the developer console and go to the console tab and you will see "Removed Adblock popup" in the messages if there was a popup on your youtube tab
 
